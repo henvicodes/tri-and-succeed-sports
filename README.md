@@ -1,4 +1,4 @@
-#🏊 Tri and Succeed Sports 🚴 🏃
+🏊 Tri and Succeed Sports 🚴 🏃
 
 Swim. Bike. Run. Code.
 
